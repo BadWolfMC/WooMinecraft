@@ -4,7 +4,7 @@
     <groupId>com.plugish.woominecraft</groupId>
     <artifactId>WooMinecraft</artifactId>
 
-    <version>1.5.3</version>
+    <version>1.5.4</version>
 
     <name>WooMinecraft</name>
     <description>A WooCommerce Minecraft Bridge</description>
@@ -68,7 +68,7 @@
         <dependency>
             <groupId>io.papermc.paper</groupId>
             <artifactId>paper-api</artifactId>
-            <version>1.20.2-R0.1-SNAPSHOT</version>
+            <version>1.20.4-R0.1-SNAPSHOT</version>
             <scope>provided</scope>
         </dependency>
 
